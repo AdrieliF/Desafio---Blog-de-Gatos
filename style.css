@@ -154,6 +154,10 @@ footer a {
     padding: 1.6rem 6.2rem;
   }
 
+  .input-wrapper input {
+    max-width: 75rem;
+  }
+
   main {
     grid-area: main;
     margin-left: 6rem;
