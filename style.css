@@ -155,7 +155,7 @@ footer a {
   }
 
   .input-wrapper input {
-    max-width: 75rem;
+    width: 75vw;
   }
 
   main {

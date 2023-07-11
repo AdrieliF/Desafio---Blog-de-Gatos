@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="images/readme.gif" width="100%">
+  <img alt="imagem do projeto" src="assets/readme.gif" width="100%">
 </p>
 
 ## Sobre o desafio
