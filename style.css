@@ -68,7 +68,7 @@ header .avatar {
   border: 0;
   padding: 1.2rem 1.5rem;
   border-radius: .4rem;
-  width: 75vw;
+  width: 70vw;
 }
 
 main .main {
@@ -133,6 +133,11 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: var(--background-main);
 }
 
 @media (min-width: 800px) {
